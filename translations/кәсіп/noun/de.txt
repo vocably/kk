@@ -1,0 +1,8 @@
+Beruf
+Gewerbe
+Geschäft
+Handwerk
+Branche
+Erwerbstätigkeit
+Tätigkeit
+Metier

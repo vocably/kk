@@ -1,0 +1,5 @@
+Geld
+Währung
+Zahlungsmittel
+Münze
+Banknote
